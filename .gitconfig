@@ -1,10 +1,10 @@
 [hub]
   protocol = https
   host = github.gds
-  
+
 [user]
   name = Dafydd Vaughan
-  email = [redacted]
+  email = dai@daibach.co.uk
 
 [color]
   branch = auto
